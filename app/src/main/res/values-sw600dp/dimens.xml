@@ -1,0 +1,8 @@
+<resources>
+
+    <dimen name="text_size_date">50sp</dimen>
+    <dimen name="text_size_time">100sp</dimen>
+    <dimen name="text_size_weather">60sp</dimen>
+    <dimen name="text_size_battery_level">40sp</dimen>
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyHome</string>
+    <string name="empty" />
+
+    <string name="rainy_title1">00–06</string>
+    <string name="rainy_title2">06–12</string>
+    <string name="rainy_title3">12–18</string>
+    <string name="rainy_title4">18–24</string>
+</resources>
